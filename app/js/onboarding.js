@@ -81,7 +81,7 @@ class Onboarding {
             title: "1.2.1 - the multiplayer update",
             width: "34em",
             paragraphs: [
-                "Welcome to the Dungeoneer multiplayer update. This update allows you to invite players to view your current battlemap online. Open the server window from the map tool and start your server. Your players will be able to join you through the <a data-href='https://www.ogreforge.me/Dungeoneer/client' onclick ='externalLink(event)'>Dungeoneer online client.</a>",
+                "Welcome to the Dungeoneer multiplayer update. This update allows you to invite players to view your current battlemap online. Open the server window from the map tool and start your server. Your players will be able to join you through the <a data-href='https://durtur.github.io/Dungeoneer/client' onclick ='externalLink(event)'>Dungeoneer online client.</a>",
                 { type: "img", path: "./screenshots/server.JPG" },
                 "Please note that this is beta functionality. Bugs and questions can be posted <a data-href='https://github.com/Durtur/Dungeoneer/issues' onclick ='externalLink(event)'> here</a>.",
                 "<a data-href='https://github.com/Durtur/Dungeoneer/releases/tag/v1.2.0' onclick ='externalLink(event)'>Release notes</a>"
